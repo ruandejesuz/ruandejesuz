@@ -1,5 +1,5 @@
 <strong>Olá</strong><br>
-Meu nome é Ruan Vinicius dos Santos de Jesúz
+Meu nome é <strong>Ruan Vinicius dos Santos de Jesúz</strong>
 
 Estou estudando na Alura<br>
 Estou me desenvolvendo na linguagem JavaScript<br>
